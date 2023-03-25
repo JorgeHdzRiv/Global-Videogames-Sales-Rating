@@ -1,5 +1,8 @@
 # Introduction
 
+In this project I use the differents concepts by Data Analysis and DataScience by differents tools by example Python,R,Tableu,SQL and Sheets
+
+This project is part of the last course of Data Analysis by Google and Coursera and is the last past of differents concepts that I learning . I try use it all differents tools by resolve the problematic and give the value of Data.
 
 
 # About this dataset
@@ -34,10 +37,17 @@ Ultimately, this dataset gives researchers the power to profoundly analyse trend
 
 ## Notebook in Python
 
+[Notebook](./GlobalSales.ipynb)
 
+## SQL Script
 
 ## Notebook in R
 
+## Sheet of Calculus
+
+## Presentation 
+
+## Dashboard 
 
 # Social Links
 
